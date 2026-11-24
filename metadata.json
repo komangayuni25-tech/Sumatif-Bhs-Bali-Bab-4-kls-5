@@ -1,0 +1,8 @@
+{
+  "name": "Sumatif bahasa bali bab 4 kelas 5",
+  "description": "Aplikasi Tes Sumatif Bahasa Bali Kelas 5 SD Negeri 3 Loloan Timur (30 PG & 5 PGK Kategori) dengan analisis butir soal, matriks respon siswa, ekspor CSV/PDF kedinasan, dan sinkronisasi Google Spreadsheet.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
